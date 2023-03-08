@@ -8,8 +8,8 @@ A webpack powered text editor for your browser
 
 ## Getting Started
 Start by downloading the repository. At the root level:
--prompt `npm i`
--prompt `npm start`
+* prompt `npm i`
+* prompt `npm start`
 
 ## Authors
 Chris Lemmon
